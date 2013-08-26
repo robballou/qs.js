@@ -1,6 +1,6 @@
 # qs.js
 
-A library for interacting with and manipulating query strings
+A library for interacting with and manipulating query strings.
 
 ## Examples
 
@@ -28,3 +28,7 @@ You can also parse query strings that you may have on links or other strings:
 If you have manipulated a querystring, you can convert it back to a string:
 
     var new_querystring = querystring.toString();
+
+## Tests
+
+You can [view the tests here](http://robballou.com/p/qsjs/test.html).
